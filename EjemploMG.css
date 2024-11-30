@@ -1,0 +1,52 @@
+h1{
+    color:rgb(196, 102, 74);
+    font-family:Calibri;
+    font-size: xx-large;
+}
+h3{
+    color: whitesmoke;
+    font-family: Trebuchet MS;
+    background-color: rgb(236, 167, 167);
+    
+}
+ul{
+    color: grey;
+}
+p{
+    color: rgba(101, 94, 94, 0.889);
+    font-weight: 200;
+    text-align: center;
+}
+h8{
+    color: rgb(88, 81, 81);
+    font-family: cursive;
+    font-family: fantasy;
+}
+img{
+    filter: grayscale(100%);
+}
+.caja{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(217, 119, 114);
+    box-shadow: -7px -5px 5px 0px rgba(0,0,0,0.55);
+    border-top: 10px double #e2c4c0;
+    border-right: 10px dotted #e750ff;
+    border-bottom: 10px ridge #50ffd0;
+    border-left: 10px ridge #fff850;
+    border-radius: 65px 65px 66px 65px;
+-webkit-border-radius: 65px 65px 66px 65px;
+-moz-border-radius: 65px 65px 66px 65px;
+}
+.destacados{
+    color: red;
+    font-style: italic;
+}
+h4{
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    font-size: large;
+    font-stretch: narrower;
+}
+
